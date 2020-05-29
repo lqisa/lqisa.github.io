@@ -2,7 +2,7 @@
 
 2. 导出接口联调三天 竟然不知道要导出
 
-    ![image-20200529151659900](C:\Users\lqisa\AppData\Roaming\Typora\typora-user-images\image-20200529151659900.png)
+    ![image-20200529151659900](./assets/images/image-20200529151659900.png)
 
 3. 接口修改不通知前端自己改完就不管
 
@@ -10,7 +10,7 @@
 
 5. id 前端这里丢失精度 感觉不是很乐意改
 
-    ![image-20200529152247729](C:\Users\lqisa\AppData\Roaming\Typora\typora-user-images\image-20200529152247729.png)
+    ![image-20200529152247729](./assets/images/image-20200529152247729.png)
 
 6. 布尔值没处理直接 0 1 抛给我 （让他改了
 
